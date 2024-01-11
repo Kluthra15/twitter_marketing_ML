@@ -1,1 +1,7 @@
 twitter_data.db filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+data/*.pkl filter=lfs diff=lfs merge=lfs -text
+model/localBERT filter=lfs diff=lfs merge=lfs -text
+data/tweets_df.pkl filter=lfs diff=lfs merge=lfs -text
+model/twitter_bert_model filter=lfs diff=lfs merge=lfs -text
+data/df_tweets_preprocessed.pkl filter=lfs diff=lfs merge=lfs -text

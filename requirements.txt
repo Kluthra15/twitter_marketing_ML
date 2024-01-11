@@ -1,0 +1,15 @@
+tweepy
+configparser
+requests
+pandas
+matplotlib
+seaborn
+scikit-learn
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+flair
+nltk
+numpy
+twitter
